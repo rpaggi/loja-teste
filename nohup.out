@@ -1,0 +1,15 @@
+time="2016-11-25T15:06:25.172447958-02:00" level=warning msg="[!] DON'T BIND ON ANY IP ADDRESS WITHOUT setting -tlsverify IF YOU DON'T KNOW WHAT YOU'RE DOING [!]" 
+time="2016-11-25T15:06:25.213587444-02:00" level=info msg="libcontainerd: new containerd process, pid: 17966" 
+time="2016-11-25T15:06:25.274925173-02:00" level=warning msg="containerd: low RLIMIT_NOFILE changing to max" current=1024 max=65536 
+time="2016-11-25T15:06:26.575895258-02:00" level=info msg="[graphdriver] using prior storage driver \"aufs\"" 
+time="2016-11-25T15:06:26.757165746-02:00" level=info msg="Graph migration to content-addressability took 0.00 seconds" 
+time="2016-11-25T15:06:26.757485649-02:00" level=warning msg="Your kernel does not support swap memory limit." 
+time="2016-11-25T15:06:26.767115576-02:00" level=info msg="Loading containers: start." 
+time="2016-11-25T15:06:26.822910489-02:00" level=info msg="Firewalld running: false" 
+time="2016-11-25T15:06:27.305134574-02:00" level=info msg="Default bridge (docker0) is assigned with an IP address 172.17.0.0/16. Daemon option --bip can be used to set a preferred IP address" 
+
+time="2016-11-25T15:06:27.446412573-02:00" level=info msg="Loading containers: done." 
+time="2016-11-25T15:06:27.446717365-02:00" level=info msg="Daemon has completed initialization" 
+time="2016-11-25T15:06:27.446754562-02:00" level=info msg="Docker daemon" commit=6b644ec graphdriver=aufs version=1.12.3 
+time="2016-11-25T15:06:27.455279691-02:00" level=info msg="API listen on /var/run/docker.sock" 
+time="2016-11-25T15:06:27.455318641-02:00" level=info msg="API listen on [::]:2375" 
